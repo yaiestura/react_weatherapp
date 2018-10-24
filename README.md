@@ -33,9 +33,8 @@ When the folder will be created and necessary files are added, run this in order
 cd weather
 npm start
 ```
-The application will be working on local server woth port -3000 by default:
-```localhost:3000
-```
+The application will be working on local server localhost:3000 with port -3000 by default:
+
 # React Components
 Basically we've got 2 main React Components/classes - WeatherDisplay and App.
 Our components have 2 basic and vital functions:
